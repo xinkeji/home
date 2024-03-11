@@ -1,37 +1,37 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "name": "苦心ios导航",
+    "link": "https://93665.xin/"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "心科技圈",
+    "link": "https://xkj.93665.xin/"
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "name": "diy头像",
+    "link": "https://tx.g0f.cn/"
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "name": "CHAT GPT",
+    "link": "https://ai.g0f.cn/"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "淘宝优惠券",
+    "link": "https://q.93665.xin/"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "link": "https://hot.g0f.cn/"
   },
   {
     "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "name": "电影VIP解析",
+    "link": "https://dy.g0f.cn/"
   }
 ]
